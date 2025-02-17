@@ -3,7 +3,12 @@ Proyecto en equipo de simulacion de un Sprint, aplicaremos nuevos casos de usos 
 
 
 Coordinador - Manuel Lemus
+
 Backend - Guillermo Baquero
+
 Analista Historia de Usuarios - Ruben Blanca
+
 BBDD - Sergio Fernandez
+
 Tester - David Guerrero
+
